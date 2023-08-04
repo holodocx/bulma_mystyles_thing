@@ -1,6 +1,6 @@
 .img{
 
-    background-image: url("backgroundimg.jpg");
+    background-image: url("/static/backgroundimg.jpg");
 
     background-attachment: fixed;
 
